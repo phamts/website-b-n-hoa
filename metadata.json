@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Flowers - Luxury Online Florist",
+  "description": "Cửa hàng hoa online cao cấp mang phong cách Luxury Floral & Romantic, cung cấp các bộ sưu tập hoa tươi nghệ thuật, dịch vụ giao hoa trong ngày và trải nghiệm mua sắm đẳng cấp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
